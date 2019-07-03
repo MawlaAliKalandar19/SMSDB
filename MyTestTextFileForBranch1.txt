@@ -1,7 +1,1 @@
-I am in Branch-1 
-Modified in Branch-1
-Modified in Branch-2
-Modified in Branch-3
-Modified in Branch-4
-Modified in Branch-5
-Modified in Branch-6
+I am in Master
